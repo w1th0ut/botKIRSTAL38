@@ -167,9 +167,4 @@ async def play(ctx, url: str):
     await ctx.send(f"Mulai musik: {nname[0]}")
     print("Mulai musik\n")
 
-#hidden command
-@client.command()
-async def arya(ctx):
-    await ctx.send('**_Fakboi_**')
-
 client.run(TOKEN)
