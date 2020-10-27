@@ -7,7 +7,7 @@ import os
 import time
 
 client = commands.Bot(command_prefix='$')
-TOKEN = 'NzY3MjUwODIyNzczNjA0MzUy.X4vMAg.q-NTyz4XLPq7J0oV6E0dWV2MWog'
+TOKEN = ''
 client.remove_command('help')
 
 #bot ready command
