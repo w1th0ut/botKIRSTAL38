@@ -11,7 +11,7 @@ Simple bot discord made by python3 for our extracurricular server discord.
 
 you need install all requirements in `requirements.txt`.
 ```bash
-git clone https://github.com/w1th0ut/discordpy-botKIRSTAL38.git
+git clone https://github.com/w1th0ut/botKIRSTAL38.git
 cd discordpy-botKIRSTAL38
 pip3 install -r requirements.txt
 ```
