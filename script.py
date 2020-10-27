@@ -16,6 +16,7 @@ async def on_ready():
     print('Login sebagai {0.user}'.format(client))
     await client.change_presence(activity=discord.Game('Mencari Prestasi'))
 
+#error handling command not found
 #@client.event
 #async def on_command_error(ctx, error):
 #	if isinstance(error, CommandNotFound):
