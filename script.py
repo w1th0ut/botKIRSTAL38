@@ -6,8 +6,8 @@ import youtube_dl
 import os
 import time
 
-client = commands.Bot(command_prefix='$')
-TOKEN = ''
+client = commands.Bot(command_prefix='ADD YOUR COMMAND PREFIX HERE')
+TOKEN = 'ADD YOUR TOKEN BOT HERE'
 client.remove_command('help')
 
 #bot ready command
