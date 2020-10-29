@@ -1,6 +1,6 @@
 # KIRSTAL 38 Bot Discord
 
-Simple bot discord made by python3 for our extracurricular server discord.
+Simple bot discord made by python3 for our extracurricular server discord. (Bot made with bahasa Indonesia)
 
 ## Requirements
 
